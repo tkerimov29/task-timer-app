@@ -1,3 +1,5 @@
 # task-timer-app
 
-Write npm install express body-parser in terminal
+Enter this in terminal:
+```s
+npm install express body-parser
